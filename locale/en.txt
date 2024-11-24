@@ -1,0 +1,15 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = BentArk bar
+
+## Media
+
+### Title
+panorama_541722F4_5E97_3F05_41BC_0166C9AFDF29.label = 02
+panorama_54EA668B_5E97_C703_41C0_9DC69BEF62DB.label = 03
+panorama_554E7EB6_5E97_4705_41D5_6C584A9481A8.label = 01
